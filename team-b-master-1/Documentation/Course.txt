@@ -1,0 +1,5 @@
+Course Name            , Course ID, Start Date, End Date , Capacity, Number Enrolled, Course Description                        ,
+Networking Fundamentals, 12345    , 1/1/2016  , 5/15/2016, 30      , 0              , Introductory course to networking.        ,
+Wireless Communications, 12346    , 1/1/2016  , 5/15/2016, 30      , 0              , Introductory course to wireless networks. ,
+Intro to Programming   , 12347    , 1/1/2016  , 5/15/2016, 30      , 0              , Introductory concepts of programming.     ,
+Intro to Programming 2 , 12348    , 1/1/2016  , 5/15/2016, 30      , 0              , Second part of Intro to Programming.      ,
